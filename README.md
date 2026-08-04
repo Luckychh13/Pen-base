@@ -4,6 +4,12 @@ A full-stack blogging platform built with React, Redux Toolkit, React Router, an
 
 ---
 
+## Feedback & contributions
+
+Found a bug, have an idea for an upgrade, or want to suggest a feature? Open an issue or a pull request on this repo — all feedback is welcome, especially from anyone using this as a learning reference.
+
+---
+
 ## What makes this different from a typical CRUD/tutorial project
 
 Most beginner blog clones stop at "create a post, show a list." This project goes further in a few deliberate ways:
