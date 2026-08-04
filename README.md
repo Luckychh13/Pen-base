@@ -3,6 +3,8 @@
 A full-stack blogging platform built with React, Redux Toolkit, React Router, and Appwrite. Users can sign up, write posts with a rich text editor, manage their own content, and read posts published by others — all wrapped in a clean, responsive UI.
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://pen-base.vercel.app/)
+
 
 ## Feedback & contributions
 
